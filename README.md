@@ -1,4 +1,5 @@
 # Trabalho final de Inteligência Artificial 2020.1
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
 ## O projeto
 Esse projeto consiste em elaborar uma rede neural para descobrir a classe de 30 jogadores, a partir de um dataset de 120 jogadores com sua classe conhecida.
