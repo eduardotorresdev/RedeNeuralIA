@@ -12,7 +12,7 @@ Para executá-lo, basta executar o arquivo `main.py`, executando o comando:
 
 ```python main.py```
 
-Ao final da execução, será gerado um relatório no console utilizado, e criado um arquivo `jogadores_encontrados.txt`.
+Ao final da execução, será gerado um relatório no console utilizado, e criado um arquivo `classe_{epoch_number}_{steps_per_epoch}_{validation_tests}.txt`, sendo os valores dentro das `{}` variando de acordo com os parâmetros de execução utilizados.
 
 ## Equipe de desenvolvimento
 
